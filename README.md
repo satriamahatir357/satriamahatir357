@@ -2,10 +2,10 @@
   <img src="./assets/github-banner.png" alt="Satria GitHub Banner">
 </p>
 
-# Hai, saya Satria 👋
+## 👋 Hai, saya Satria
 
-💻 Sedang belajar menjadi developer dan terus berkembang
-🌱 Saat ini fokus belajar Flutter & Dart
+💻 Sedang belajar menjadi developer dan terus berkembang  
+🌱 Saat ini fokus belajar **Flutter & Dart**  
 🚀 Suka belajar lewat project dan mencoba hal baru
 
 ---
@@ -16,35 +16,33 @@ Saya sedang belajar dunia pemrograman dengan membangun
 project-project kecil dan mengembangkan kemampuan saya
 secara bertahap.
 
-Saat ini saya sedang fokus mempelajari Flutter untuk
+Saat ini saya sedang fokus mempelajari **Flutter** untuk
 membuat aplikasi dengan tampilan yang modern dan nyaman
 digunakan.
 
-Saya juga pernah mengembangkan project menggunakan Java
-dan JavaFX, salah satunya adalah Dompetku.
+Saya juga pernah mengembangkan project menggunakan **Java**
+dan **JavaFX**, salah satunya adalah **Dompetku**.
 
 ---
 
 ## 🛠️ Teknologi
 
-- Flutter
-- Dart
-- Java
-- JavaFX
-- Git & GitHub
+- **Flutter**
+- **Dart**
+- **Java**
+- **JavaFX**
+- **Git & GitHub**
 
 ---
 
-## 🚀 Project
-
-### 🏨 Roomly
+### 🏨 [Roomly](https://github.com/satriamahatir357/roomly)
 
 Website pemesanan hotel yang saya buat menggunakan Flutter.
 
 Project ini saya gunakan untuk belajar membuat tampilan
 web yang modern, responsif, dan nyaman digunakan.
 
-### 💰 Dompetku
+### 🏨 [DompetKu](https://github.com/satriamahatir357/Aplikasi-Catatan-Keuangan-Berbasis-JavaFX-dan-Maven..git)
 
 Aplikasi pengelolaan keuangan pribadi menggunakan JavaFX.
 
@@ -55,10 +53,10 @@ Java, GUI, dan pengelolaan data.
 
 ## 📚 Saat Ini Saya Sedang Belajar
 
-- Flutter & Dart
-- Pengembangan Web
-- UI/UX
-- Git & GitHub
+- **Flutter & Dart**
+- **Pengembangan Web**
+- **UI/UX**
+- **Git & GitHub**
 
 ---
 
