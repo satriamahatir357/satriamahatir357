@@ -27,11 +27,11 @@ dan **JavaFX**, salah satunya adalah **Dompetku**.
 
 ## 🛠️ Teknologi
 
-- **Flutter**
-- **Dart**
-- **Java**
-- **JavaFX**
-- **Git & GitHub**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=openjfx&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
