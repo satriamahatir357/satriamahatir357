@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-banner.png" alt="Satria GitHub Banner">
+</p>
+
 # Hai, saya Satria 👋
 
 💻 Sedang belajar menjadi developer dan terus berkembang
